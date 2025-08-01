@@ -83,13 +83,4 @@ java Main
   - Public-key cryptography (e.g., RSA)
   - TLS/SSL sockets
 
----
 
-## 📦 Improvements You Can Make
-
-- Dynamic key exchange
-- Message timestamps and read receipts
-- User authentication/login system
-- Group chat or room-based communication
-- File transfer support
-- Hosting the server on a remote VPS
